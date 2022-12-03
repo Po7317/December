@@ -1,0 +1,8 @@
+.nav__link--active {
+    font-weight: bold;
+    color: yellow;
+}
+
+.nav__link {
+    color: orange;
+}
